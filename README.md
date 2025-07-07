@@ -31,19 +31,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  website: string;
-  languages: string[];
-  frameworks: string[];
-  databases: string[];
-  tools: string[];
-  currentFocus: string[];
-  lifePhilosophy: string;
-}
-
 const vansh: Developer = {
   name: "Vansh",
   role: "Full Stack Developer",
