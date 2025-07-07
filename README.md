@@ -5,8 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Digital+Experiences;💡+Solving+Complex+Problems;🎨+Crafting+Beautiful+Code" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Building+Digital+Experiences;💡+Solving+Complex+Problems;🎨+Crafting+Beautiful+Code" alt="Typing Animation"/>
 </div>
+
 
 <br>
 
