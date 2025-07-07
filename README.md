@@ -16,10 +16,10 @@
   <a href="https://vansh.live" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=globe&logoColor=00D4FF&labelColor=161B22" alt="Portfolio"/>
   </a>
-  <a href="mailto:contact@vansh.live">
+  <a href="mailto:vansh4664@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/-Email-black?style=for-the-badge&logo=mail&logoColor=00D4FF&labelColor=161B22" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/vansh" target="_blank">
+  <a href="https://www.linkedin.com/in/vansh-vyas-b7792b258/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=161B22" alt="LinkedIn"/>
   </a>
 </div>
@@ -88,7 +88,7 @@ const vansh: Developer = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" height="35"/> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VanshSharmaSDE&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaSDE&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
@@ -210,15 +210,15 @@ Goals_2024:
 <img src="https://img.shields.io/badge/🌐%20Portfolio-vansh.live-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=161B22"/>
 </a>
 
-<a href="mailto:contact@vansh.live">
+<a href="mailto:vansh4664@gmail.com">
 <img src="https://img.shields.io/badge/📧%20Email-contact@vansh.live-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"/>
 </a>
 
-<a href="https://linkedin.com/in/vansh" target="_blank">
+<a href="https://www.linkedin.com/in/vansh-vyas-b7792b258/" target="_blank">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22"/>
 </a>
 
-<a href="https://twitter.com/vansh" target="_blank">
+<a href="https://twitter.com/" target="_blank">
 <img src="https://img.shields.io/badge/🐦%20Twitter-Follow-00D4FF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=161B22"/>
 </a>
 
