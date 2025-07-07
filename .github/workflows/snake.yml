@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # ✅ Needed to push to output branch
+      contents: write  # ✅ This gives the GitHub Actions bot write access to the repo
 
     steps:
       - name: Generate snake animation
