@@ -110,42 +110,9 @@ const vansh: Developer = {
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35"/> Featured Projects
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35"/> Featured Projects
+<div align="center"> <table> <tr> <!-- Project 1 --> <td width="50%"> <h3 align="center">🎯 Code Quest</h3> <p align="center"><a href="https://github.com/VanshSharmaSDE/Code-Quest-v2.0.0" target="_blank">🔗 GitHub</a></p> <div align="center"> <a href="https://github.com/VanshSharmaSDE/Code-Quest-v2.0.0" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=Code-Quest-v2.0.0&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9"/> </a> </div> <p align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/> </p> </td> <!-- Project 2 --> <td width="50%"> <h3 align="center">🤝 Collab</h3> <p align="center"><a href="https://github.com/VanshSharmaSDE/Collab" target="_blank">🔗 GitHub</a> • <a href="https://collab-frontend-s0ec.onrender.com/" target="_blank">🌐 Live</a></p> <div align="center"> <a href="https://github.com/VanshSharmaSDE/Collab" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=Collab&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9"/> </a> </div> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/> </p> </td> </tr> <tr> <!-- Project 3 --> <td width="50%"> <h3 align="center">🎯 Focus Flux</h3> <p align="center"><a href="https://github.com/VanshSharmaSDE/Focus-Flux" target="_blank">🔗 GitHub</a> • <a href="https://focus-flux.onrender.com/" target="_blank">🌐 Live</a></p> <div align="center"> <a href="https://github.com/VanshSharmaSDE/Focus-Flux" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=Focus-Flux&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9"/> </a> </div> <p align="center"> <img src="https://img.shields.io/badge/MERN-3C873A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss"/> <img src="https://img.shields.io/badge/Appwrite-EF233C?style=flat-square&logo=appwrite"/> </p> </td> <!-- Project 4 --> <td width="50%"> <h3 align="center">🗣️ Offline STT</h3> <p align="center"><a href="https://github.com/VanshSharmaSDE/Offline-STT" target="_blank">🔗 GitHub</a></p> <div align="center"> <a href="https://github.com/VanshSharmaSDE/Offline-STT" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=Offline-STT&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9"/> </a> </div> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Vosk-STT-blueviolet?style=flat-square"/> </p> </td> </tr> <tr> <!-- Project 5 --> <td width="50%" colspan="2"> <h3 align="center">📊 LDS Data Solutions</h3> <p align="center"><a href="https://github.com/VanshSharmaSDE/LDS" target="_blank">🔗 GitHub</a> • <a href="https://ldsdatasolutions.in" target="_blank">🌐 Live</a></p> <div align="center"> <a href="https://github.com/VanshSharmaSDE/LDS" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=LDS&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9"/> </a> </div> <p align="center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/> </p> </td> </tr> </table> </div>
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🚀 Project Alpha</h3>
-<div align="center">  
-<a href="https://github.com/VanshSharmaSDE/project-alpha" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=project-alpha&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Alpha"/>
-</a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">⚡ Project Beta</h3>
-<div align="center">
-<a href="https://github.com/VanshSharmaSDE/project-beta" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=project-beta&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Beta"/>
-</a>
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
