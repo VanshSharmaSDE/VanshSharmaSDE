@@ -89,15 +89,15 @@ const vansh: Developer = {
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharmaSDE&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharmaSDE&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshSharmaSDE&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -105,7 +105,7 @@ const vansh: Developer = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35"/> Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VanshSharmaSDE&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br>
@@ -120,7 +120,7 @@ const vansh: Developer = {
 <h3 align="center">🚀 Project Alpha</h3>
 <div align="center">  
 <a href="https://github.com/YOUR_USERNAME/project-alpha" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-alpha&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Alpha"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=project-alpha&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Alpha"/>
 </a>
 </div>
 <p align="center">
@@ -133,7 +133,7 @@ const vansh: Developer = {
 <h3 align="center">⚡ Project Beta</h3>
 <div align="center">
 <a href="https://github.com/YOUR_USERNAME/project-beta" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-beta&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Beta"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=project-beta&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Beta"/>
 </a>
 </div>
 <p align="center">
@@ -229,7 +229,7 @@ Goals_2024:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35"/> Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/VanshSharmaSDE/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
 </div>
 
 <br>
@@ -237,9 +237,9 @@ Goals_2024:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00D4FF&labelColor=161B22" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=00D4FF&labelColor=161B22" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=VanshSharmaSDE&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/VanshSharmaSDE?style=for-the-badge&color=00D4FF&labelColor=161B22" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/VanshSharmaSDE?style=for-the-badge&color=00D4FF&labelColor=161B22" alt="Stars"/>
 </div>
 
 <br>
