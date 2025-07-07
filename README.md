@@ -153,52 +153,50 @@ const vansh: Developer = {
 
 <div align="center">
 
-```yaml
 ## 🚀 Current Focus
 
 <div align="center">
 
+### 📚 Learning | 🛠️ Building | 🎯 Goals 2024
+
+---
+
 <table>
-<tr>
-<td width="45%" valign="top">
+  <tr>
+    <td valign="top" width="33%">
 
-### 📚 Learning
-<ul align="left">
-  <li>🔧 Advanced System Design Patterns</li>
-  <li>☁️ Cloud Architecture & Microservices</li>
-  <li>🧠 AI/ML Integration in Web Apps</li>
-  <li>⚙️ DevOps & CI/CD Optimization</li>
-</ul>
+<b>📚 Learning</b><br>
 
-</td>
-<td width="45%" valign="top">
-
-### 🛠️ Building
-<ul align="left">
-  <li>🌐 Next-generation SaaS Platform</li>
-  <li>🧰 Open Source Developer Tools</li>
-  <li>🤖 AI-powered Code Assistant</li>
-</ul>
+- 🔧 System Design Patterns  
+- ☁️ Cloud & Microservices  
+- 🧠 AI/ML Integration  
+- ⚙️ DevOps & CI/CD  
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+    <td valign="top" width="33%">
 
-### 🎯 Goals 2024
-<ul align="center">
-  <li>🌟 Contribute to 10+ Open Source Projects</li>
-  <li>🚀 Launch 3 Production Applications</li>
-  <li>👨‍🏫 Mentor 20+ Developers</li>
-  <li>🎤 Speak at 5 Tech Conferences</li>
-</ul>
+<b>🛠️ Building</b><br>
+
+- 🌐 SaaS Platforms  
+- 🧰 Dev Tools  
+- 🤖 AI Code Assistant  
 
 </td>
-</tr>
+    <td valign="top" width="33%">
+
+<b>🎯 Goals 2024</b><br>
+
+- 🌟 Contribute to 10 OSS  
+- 🚀 Launch 3 Apps  
+- 👨‍🏫 Mentor 20 Devs  
+- 🎤 5 Conference Talks  
+
+</td>
+  </tr>
 </table>
 
 </div>
-```
+
 
 </div>
 
