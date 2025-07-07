@@ -119,7 +119,7 @@ const vansh: Developer = {
 <td width="50%">
 <h3 align="center">🚀 Project Alpha</h3>
 <div align="center">  
-<a href="https://github.com/YOUR_USERNAME/project-alpha" target="_blank">
+<a href="https://github.com/VanshSharmaSDE/project-alpha" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=project-alpha&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Alpha"/>
 </a>
 </div>
@@ -132,7 +132,7 @@ const vansh: Developer = {
 <td width="50%">
 <h3 align="center">⚡ Project Beta</h3>
 <div align="center">
-<a href="https://github.com/YOUR_USERNAME/project-beta" target="_blank">
+<a href="https://github.com/VanshSharmaSDE/project-beta" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=VanshSharmaSDE&repo=project-beta&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Project Beta"/>
 </a>
 </div>
