@@ -102,7 +102,7 @@ const vansh: Developer = {
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35"/> Achievements
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VanshSharmaSDE&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
@@ -154,22 +154,50 @@ const vansh: Developer = {
 <div align="center">
 
 ```yaml
-Learning:
-  - Advanced System Design Patterns
-  - Cloud Architecture & Microservices
-  - AI/ML Integration in Web Apps
-  - DevOps & CI/CD Optimization
+## 🚀 Current Focus
 
-Building:
-  - Next-generation SaaS Platform
-  - Open Source Developer Tools
-  - AI-powered Code Assistant
+<div align="center">
 
-Goals_2024:
-  - Contribute to 10+ Open Source Projects
-  - Launch 3 Production Applications
-  - Mentor 20+ Developers
-  - Speak at 5 Tech Conferences
+<table>
+<tr>
+<td width="45%" valign="top">
+
+### 📚 Learning
+<ul align="left">
+  <li>🔧 Advanced System Design Patterns</li>
+  <li>☁️ Cloud Architecture & Microservices</li>
+  <li>🧠 AI/ML Integration in Web Apps</li>
+  <li>⚙️ DevOps & CI/CD Optimization</li>
+</ul>
+
+</td>
+<td width="45%" valign="top">
+
+### 🛠️ Building
+<ul align="left">
+  <li>🌐 Next-generation SaaS Platform</li>
+  <li>🧰 Open Source Developer Tools</li>
+  <li>🤖 AI-powered Code Assistant</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🎯 Goals 2024
+<ul align="center">
+  <li>🌟 Contribute to 10+ Open Source Projects</li>
+  <li>🚀 Launch 3 Production Applications</li>
+  <li>👨‍🏫 Mentor 20+ Developers</li>
+  <li>🎤 Speak at 5 Tech Conferences</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</div>
 ```
 
 </div>
@@ -187,7 +215,7 @@ Goals_2024:
 <br><i>Write code that tells a story</i>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="50" height="50"/>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/artist-palette_1f3a8.png" width="50" height="50" alt="Palette"/>
 <br><b>User Experience</b>
 <br><i>Design with empathy</i>
 </td>
@@ -229,7 +257,7 @@ Goals_2024:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35"/> Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VanshSharmaSDE/VanshSharmaSDE/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+  <img src="https://github.com/VanshSharmaSDE/VanshSharmaSDE/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 <br>
