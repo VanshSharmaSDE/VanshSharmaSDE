@@ -211,7 +211,7 @@ Goals_2024:
 </a>
 
 <a href="mailto:vansh4664@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-contact@vansh.live-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/📧%20Email-vansh4664@gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vansh-vyas-b7792b258/" target="_blank">
@@ -229,7 +229,7 @@ Goals_2024:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35"/> Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/VanshSharmaSDE/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/VanshSharmaSDE/VanshSharmaSDE/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
 </div>
 
 <br>
