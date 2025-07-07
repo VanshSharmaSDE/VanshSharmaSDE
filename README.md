@@ -250,9 +250,11 @@ const vansh: Developer = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35"/> Activity
 
+
 <div align="center">
-  <img src="https://github.com/VanshSharmaSDE/VanshSharmaSDE/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+  <img src="https://github.com/VanshSharmaSDE/VanshSharmaSDE/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
+
 
 
 <br>
