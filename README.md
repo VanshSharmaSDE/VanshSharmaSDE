@@ -42,7 +42,8 @@ const vansh: Developer = {
   databases: ["MongoDB", "PostgreSQL", "Redis"],
   tools: ["Docker", "AWS", "Git", "Figma"],
   currentFocus: ["System Design", "Cloud Architecture", "AI Integration"],
-  lifePhilosophy: "Code with purpose, design with empathy"
+  lifePhilosophy: "Code with purpose, design with empathy",
+  hobby: ["Gaming", "Anime", "Cooking"]
 };
 
 ```
