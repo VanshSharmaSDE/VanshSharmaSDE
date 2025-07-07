@@ -111,10 +111,10 @@ const vansh: Developer = {
 <br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35"/> Featured Projects
+
 <div align="center">
   <table>
     <tr>
-      <!-- Project 1 -->
       <td width="50%">
         <h3 align="center">🎯 Code Quest</h3>
         <p align="center">
@@ -130,10 +130,8 @@ const vansh: Developer = {
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
         </p>
-        <p align="center"><i>Interactive coding contest platform with secure submissions and real-time leaderboard. Built using the MERN stack for developer and student communities.</i></p>
+        <p align="center"><i>An interactive platform for coding contests with secure submissions, leaderboards, and real-time performance tracking.</i></p>
       </td>
-
-      <!-- Project 2 -->
       <td width="50%">
         <h3 align="center">🤝 Collab</h3>
         <p align="center">
@@ -150,12 +148,10 @@ const vansh: Developer = {
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
           <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
         </p>
-        <p align="center"><i>Real-time collaboration app supporting text chat and project syncing. Designed for teams and live interactions using socket-powered architecture.</i></p>
+        <p align="center"><i>A real-time collaboration workspace for developers to chat, sync code, and collaborate efficiently.</i></p>
       </td>
     </tr>
-
     <tr>
-      <!-- Project 3 -->
       <td width="50%">
         <h3 align="center">🎯 Focus Flux</h3>
         <p align="center">
@@ -172,10 +168,8 @@ const vansh: Developer = {
           <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss"/>
           <img src="https://img.shields.io/badge/Appwrite-EF233C?style=flat-square&logo=appwrite"/>
         </p>
-        <p align="center"><i>A social productivity platform with to-do tracking, focus timers, and collaboration. Built for personal growth and team accountability.</i></p>
+        <p align="center"><i>A productivity web app enabling users to manage to-dos, track progress, and collaborate with friends on shared goals.</i></p>
       </td>
-
-      <!-- Project 4 -->
       <td width="50%">
         <h3 align="center">🗣️ Offline STT</h3>
         <p align="center">
@@ -190,7 +184,7 @@ const vansh: Developer = {
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
           <img src="https://img.shields.io/badge/Vosk-STT-blueviolet?style=flat-square"/>
         </p>
-        <p align="center"><i>Local speech-to-text application using Vosk engine. Enables offline voice recognition with high accuracy for privacy-focused use cases.</i></p>
+        <p align="center"><i>Offline speech-to-text engine using Vosk and Python, ideal for private and real-time transcription use cases.</i></p>
       </td>
     </tr>
   </table>
