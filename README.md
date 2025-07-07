@@ -31,6 +31,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
+
 const vansh: Developer = {
   name: "Vansh",
   role: "Full Stack Developer",
@@ -43,6 +44,7 @@ const vansh: Developer = {
   currentFocus: ["System Design", "Cloud Architecture", "AI Integration"],
   lifePhilosophy: "Code with purpose, design with empathy"
 };
+
 ```
 
 <br clear="right"/>
