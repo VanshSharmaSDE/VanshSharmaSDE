@@ -1,64 +1,64 @@
-<!-- 🚀 Header: Your Name & Title -->
-# Hi there, I’m Vansh 👋  
-### MERN Stack Developer | Full‑Stack Engineer | Web Enthusiast  
+<!-- Hero Section -->
+<h1 align="center">
+  Hi, I’m **Vansh**
+  <br>
+  <em>Full‑Stack Developer (MERN & Next.js)</em>
+</h1>
 
 ---
 
-## 🌐 About Me
-I’m a passionate and detail-oriented Full‑Stack Developer specializing in the MERN stack:
-- 🔹 **Front‑End:** React.js, Redux, TypeScript, Tailwind CSS  
-- 🔹 **Back‑End:** Node.js, Express, MongoDB  
-- 🔹 **Deployment & DevOps:** Docker, AWS, CI/CD Pipelines  
-- 🔹 **Passions:** Clean code, elegant UI/UX, performance optimization
+## 🚀 About Me
+I build seamless, dynamic applications—bringing ideas to life both front-end and back-end.  
+• **Front-End**: React, Next.js, Tailwind CSS, GSAP, TypeScript  
+• **Back-End**: Node.js, Express, MongoDB, REST APIs  
 
-You can explore my live projects and portfolio at [vansh.live](https://vansh.live).
+I’m committed to clean code, outstanding UX, and optimized performance—see how on [vansh.live](https://vansh.live).
 
 ---
 
-## 🚧 Noteworthy Projects
+## 💼 Core Skills
 
-| Project | Tech Stack | Highlights |
-|--------|-------------|------------|
-| **Portfolio Website** | React, Tailwind CSS, Netlify | Personal portfolio with responsive design, interactive components, and smooth animations. |
-| **E‑Commerce Platform** | React, Node.js, MongoDB, Stripe | Full‑featured shopping cart, secure authentication, payment gateway integration. |
-| **Real‑Time Chat App** | Express, Socket.IO, MongoDB | WebSocket-powered chat with real-time messaging, chat rooms, and user statuses. |
-
-🔗 Explore these projects and more on my GitHub profile!
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind, GSAP, Git  
+- **Backend**: Node.js, Express.js, MongoDB (Mongoose), RESTful API design  
+- **Dev & Tools**: TypeScript, Web Performance Optimization, CI/CD, Responsive Design, SEO
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠️ Selected Projects
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
-- **Front‑End:** React, Redux, Hooks, Context API, Tailwind  
-- **Back‑End:** Node.js, Express, RESTful APIs  
-- **Databases:** MongoDB, Mongoose  
-- **DevOps:** Docker, Git, GitHub, AWS (S3, EC2, Lambda), CI/CD  
-- **Testing:** Jest, Mocha, Supertest  
-- **Additional:** Webpack, Babel, ESLint, Prettier, Agile Methodologies  
+| Project          | Technologies                          | Highlights |
+|------------------|----------------------------------------|------------|
+| **Teetrendz**     | React, Node.js, Express, MongoDB       | Full‑stack SASS with auth & admin dashboard |
+| **PerfectHome**   | Next.js, Tailwind CSS, MongoDB         | Modern UI with server‑side rendering & SEO |
+| **DeliciousBite** | React, Tailwind CSS                    | Responsive UI for food enthusiasts |
+| **Defi**          | Next.js, React, Tailwind               | Real‑time data, interactive UI |
+
+Explore live demos and source code on [vansh.live/work](https://vansh.live).
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vansh&show_icons=true&theme=default)  
-*Visual representation of my coding activity and contributions.*
+![Vansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansh-SHARMA&show_icons=true&theme=default)
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Connect
 
-- 💼 **Portfolio/Blog:** [vansh.live](https://vansh.live)  
-- ✉️ **Email:** [your-email@example.com]  
-- 📘 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
-
----
-
-## 🎯 Fun Fact
-When I’m not coding, I love to explore modern design trends, experiment with CSS/animation libraries, and contribute to open-source projects. I’m constantly learning – whether it’s a new framework or diving into cloud-native architectures.
+- 📍 Agra, India  
+- 🌐 **Website**: [vansh.live](https://vansh.live)  
+- 📧 **Email**: vansh@vansh.live  
+- 🔗 **LinkedIn**: [linkedin.com/in/yourprofile](#)  
 
 ---
 
-Thank you for visiting my GitHub profile. I’m always open to collaboration, innovative projects, and meaningful R&D discussions 🔍  
-Let’s build something impactful together!
+## 🎯 What’s Next
+I’m continuously exploring advanced React patterns, serverless architectures, and polished UI animations. Currently working on AI-powered web tools & engaging developer experiences.
 
+---
+
+> “Creating digital experiences that combine performance, design, and reliability.”
+
+---
+
+Thank you for visiting! Always open to collaborations, challenges, and innovation. 🚀
