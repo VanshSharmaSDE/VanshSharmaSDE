@@ -250,9 +250,12 @@ const vansh: Developer = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35"/> Activity
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VanshSharmaSDE&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak Stats"/>
+  <img src="https://github-contribution-graph.vercel.app/api?username=VanshSharmaSDE&theme=dark" alt="GitHub Snake Animation" />
 </div>
+
 
 
 <br>
