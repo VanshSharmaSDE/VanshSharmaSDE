@@ -153,10 +153,6 @@ const vansh: Developer = {
 
 <div align="center">
 
-## 🚀 Current Focus
-
-<div align="center">
-
 ### 📚 Learning | 🛠️ Building | 🎯 Goals 2024
 
 ---
